@@ -1,8 +1,9 @@
-2983d8d44163f960b206295ca763e10f *DESCRIPTION
-76815ec359e993e175335fcffddf63c6 *NAMESPACE
+9ac23aeb90f1f0d6f30e56225ed023b6 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+1bc973fc076f5a3e89fcf102b51b38df *NEWS.md
 2d0c3d8f66c61a9d1736ac152e8edd1c *R/vehicle.R
 77f050ca261dce663f82835a672522a0 *README.md
-0a370ac9eb329f3d20d4ec069cf8f0fb *data/common.rdata
-0123856a79778c4dbb8d490b044f5bb4 *data/vehicles.rdata
-d155cd1545e70f4a34f467f5108e69a9 *man/common.Rd
-c5c121f85159f8d685d7673f733f2e81 *man/vehicles.Rd
+b04ba41156bfbd0093de7e759ec15ce7 *data/common.rda
+41a8721791bd07eef3ec7670b2d4a939 *data/vehicles.rda
+c7b8575c76309f6d1fb4e39c800b5e05 *man/common.Rd
+6aca7ac5916e5a54ff93148dded9c636 *man/vehicles.Rd
